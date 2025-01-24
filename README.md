@@ -33,7 +33,7 @@ To demonstrate the trend of paper cup production over time and its correlation w
 **What it says:**  
 - The chart shows a steady increase in paper cup production over the years, reflecting growing demand.  
 - CO₂ emissions rise alongside production, emphasizing the environmental impact of increased consumption.  
-- This trend highlights the urgent need for alternatives to disposable paper cups.  
+- This trend highlights the urgent need for alternatives to disposable paper cups.
 
 ---
 
@@ -92,13 +92,11 @@ To provide a snapshot of waste management for each year in a simple and intuitiv
 
 ## Visualization Snapshots  
 
-Refer to the Power BI visualization images shared in the chat for examples of:  
-- Line charts displaying paper cup production and CO₂ emissions trends.  
-- Bar charts comparing recycling rates and landfill percentages over time.  
-- Heatmaps showing correlations between production, emissions, and water usage.  
+![image](https://github.com/user-attachments/assets/0ea84393-084d-4e90-b43c-ca4b17e3e062)
+![image](https://github.com/user-attachments/assets/f0308da6-ba00-4242-8c5b-007993a691dc)
+
 
 ---
-
 ## Installation and Usage  
 
 ### Prerequisites:  
